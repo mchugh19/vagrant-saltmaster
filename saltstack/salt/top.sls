@@ -1,0 +1,6 @@
+base:
+  '*':
+    - common
+
+  'master':
+    - saltapi
