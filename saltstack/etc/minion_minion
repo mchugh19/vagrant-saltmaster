@@ -1,0 +1,5 @@
+## Look locally for files
+#file_client: local
+master: master.local
+id: minion1
+
